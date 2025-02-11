@@ -160,7 +160,7 @@ The visualization of failure cases shows:
    pip install torch torchvision opencv-python numpy matplotlib sklearn
    ```
 
-2. Organize the dataset in the following structure:
+2. The dataset is already organized in the following structure:
    ```
    chest_xray/
    ├── train/
@@ -178,7 +178,7 @@ The visualization of failure cases shows:
    - Due to size limitations, trained model files (.pth) are not included in the repository
    - Running the training script will generate new model files in the `saved_models` directory
    - Best models will be automatically saved during training
-   - If you need the specific models used in our results, please contact the author
+   - If you need the specific models used in our results, please contact me
 
 4. Run the training script:
    ```bash
