@@ -3,6 +3,8 @@
 ### Zachary Wood
 ### Programming Assignment #1
 
+> **Note**: Due to Canvas submission limitations allowing only one submission, the complete project report (Assignment1_Report_Zachary.pdf) has been included in this GitHub repository alongside the code.
+
 ## Implementation Details
 
 ### System Specifications
