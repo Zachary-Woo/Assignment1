@@ -11,7 +11,7 @@
 - Processor: Intel(R) Core(TM) i9-14900K 3.20 GHz
 - RAM: 64.0 GB (63.8 GB usable)
 - System Type: 64-bit operating system, x64-based processor
-- GPU: CPU Only (PyTorch CPU)
+- GPU: NVIDIA GeForce RTX 4090 (24GB VRAM)
 
 ### Network Architecture
 - Task 1.1: ResNet50 (trained from scratch)
